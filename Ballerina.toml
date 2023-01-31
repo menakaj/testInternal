@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.1"
+  export = ["greeting_service_je"]
+  icon = "docs/icon.png"
+  keywords = ["Type/RestApi","Category/Service","Internal/http"]
+  name = "greeting_service_je"
+  org = "menaka"
+  version = "1.1.0"
+
